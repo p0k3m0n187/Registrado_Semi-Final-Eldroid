@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registrado-SemiFinal</string>
+    <string name="add_post">Add Post</string>
+    <string name="enter_description">Enter Description..</string>
+    <string name="enter_name">Enter Name..</string>
+    <string name="save_post">Save Tweet</string>
+    <string name="create_tweet">Create Tweet</string>
+    <string name="update_tweet">Update Tweet</string>
+    <string name="delete_tweet">Delete Tweet</string>
+</resources>
